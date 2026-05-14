@@ -8,3 +8,15 @@ __pycache__/
 *.pdf
 *.png
 *.jpg
+
+# Large/intermediate directories — keep locally, not in repo
+data/raw/
+data/species_preview.txt
+scripts/visualization/
+tools/
+figures/
+temp/
+
+# Binary/generated files
+*.rds
+Rplots.pdf

@@ -1,0 +1,535 @@
+accession	species
+XP_006965674.1	Trichoderma reesei QM6a
+XP_003054277.1	Fusarium vanettenii 77-13-4
+XP_006969224.1	Trichoderma reesei QM6a
+XP_062752973.1	Trichoderma aggressivum f. europaeum
+XP_043132456.1	Aspergillus chevalieri
+XP_045944448.1	Aspergillus melleus
+XP_045938407.1	Aspergillus melleus
+XP_041557041.1	Aspergillus puulaauensis
+XP_041538079.1	Aspergillus luchuensis
+XP_033426814.1	Aspergillus tanneri
+XP_070875514.1	glycoside hydrolase family 7 protein [Sodiomyces alcalophilus JCM
+XP_064666759.1	Canariomyces notabilis
+XP_069301341.1	glycoside hydrolase family 7 protein [Thermothelomyces
+XP_067508645.1	Cenococcum geophilum 1.58
+XP_066732544.1	Apiospora kogelbergensis
+XP_066664452.1	Apiospora hydei
+XP_066677180.1	Apiospora marii
+XP_066669139.1	Apiospora hydei
+XP_066692516.1	Apiospora aurea
+XP_007718121.1	Bipolaris zeicola 26-R-13
+XP_007717229.1	Bipolaris zeicola 26-R-13
+XP_013952935.1	Trichoderma virens Gv29-8
+XP_051375947.1	Durotheca rogersii
+XP_051310513.1	Hypoxylon trugodes
+XP_051317175.1	Hypoxylon trugodes
+XP_049116754.1	Hypoxylon fragiforme
+XP_049117919.1	Hypoxylon fragiforme
+XP_049159384.1	Daldinia loculata
+XP_049161402.1	Daldinia loculata
+XP_047849575.1	Annulohypoxylon truncatum
+XP_047859057.1	Annulohypoxylon truncatum
+XP_047863075.1	Daldinia vernicosa
+XP_047825301.1	Xylaria bambusicola
+XP_047817136.1	glycoside hydrolase family 7 protein [Annulohypoxylon
+XP_047819235.1	glycoside hydrolase family 7 protein [Annulohypoxylon
+XP_047786351.1	Daldinia caldariorum
+XP_047792003.1	Daldinia caldariorum
+XP_045951057.1	glycoside hydrolase family 7 protein
+XP_018067218.1	Mollisia scopiformis
+XP_033680682.1	Trematosphaeria pertusa
+XP_033521857.1	glycoside hydrolase family 7 protein [Dothidotthia symphoricarpi
+XP_033552739.1	Lindgomyces ingoldianus
+XP_033557521.1	Macroventuria anomochaeta
+XP_033447249.1	Didymella exigua CBS 183.55
+XP_033448586.1	Didymella exigua CBS 183.55
+XP_007702164.1	glycoside hydrolase family 7 protein [Bipolaris sorokiniana
+XP_007391663.1	glycoside hydrolase family 7 protein [Phanerochaete carnosa
+XP_031869432.1	Venustampulla echinocandica
+XP_003653757.1	glycoside hydrolase family 7 protein [Thermothielavioides
+XP_003649482.1	glycoside hydrolase family 7 protein [Thermothielavioides
+XP_058365763.1	Penicillium canescens
+XP_058376484.1	Penicillium canescens
+XP_058328959.1	Penicillium chermesinum
+XP_058318758.1	Penicillium antarcticum
+XP_058310701.1	Penicillium cinerascens
+XP_057150191.1	Penicillium mononematosum
+XP_057136795.1	Penicillium samsonianum
+XP_057108664.1	Penicillium vulpinum
+XP_057096656.1	Penicillium soppii
+XP_057126554.1	Penicillium waksmanii
+XP_057088912.1	Penicillium robsamsonii
+XP_057050272.1	Penicillium riverlandense
+XP_057028499.1	Penicillium paradoxum
+XP_056994134.1	Penicillium odoratum
+XP_057000552.1	Penicillium odoratum
+XP_056967032.1	Penicillium longicatenatum
+XP_056975181.1	Penicillium longicatenatum
+XP_056952780.1	Penicillium manginii
+XP_056928972.1	glycoside hydrolase family 7 protein [Penicillium
+XP_056922242.1	Penicillium pulvis
+XP_056940693.1	Penicillium malachiteum
+XP_056938750.1	glycoside hydrolase family 7 protein [Penicillium
+XP_057039288.1	Penicillium psychrosexuale
+XP_057079327.1	Penicillium verrucosum
+XP_057059258.1	Penicillium taxi
+XP_057003611.1	Penicillium subrubescens
+XP_057019681.1	Penicillium verhagenii
+XP_057007986.1	Penicillium subrubescens
+XP_057025380.1	Penicillium verhagenii
+XP_056980738.1	Penicillium nucicola
+XP_056985926.1	Penicillium nucicola
+XP_056809189.1	Penicillium brevicompactum
+XP_056832435.1	Penicillium lagena
+XP_056836226.1	Penicillium lagena
+XP_056481998.1	Penicillium cosmopolitanum
+XP_056472900.1	Penicillium argentinense
+XP_056474614.1	Penicillium argentinense
+XP_056792908.1	Penicillium diatomitis
+XP_056736374.1	Penicillium atrosanguineum
+XP_056780947.1	Penicillium angulare
+XP_056782924.1	Penicillium angulare
+XP_056729964.1	Penicillium crustosum
+XP_056826533.1	Penicillium maclennaniae
+XP_056759936.1	Penicillium daleae
+XP_056762359.1	Penicillium daleae
+XP_056497208.1	Penicillium citrinum
+XP_056584777.1	Penicillium concentricum
+XP_056554786.1	Penicillium cataractarum
+XP_056560526.1	Penicillium cataractarum
+XP_056541997.1	Penicillium canariense
+XP_056520636.1	Penicillium bovifimosum
+XP_056546637.1	Penicillium canariense
+XP_056531129.1	Penicillium coprophilum
+XP_049971758.1	Penicillium oxalicum
+XP_040644004.1	Penicillium griseofulvum
+XP_016593736.1	Penicillium expansum
+XP_014531257.1	Penicillium digitatum
+XP_067480198.1	glycoside hydrolase family 7 protein [Aspergillus brasiliensis CBS
+XP_043150493.1	Aspergillus udagawae
+XP_043145665.1	Aspergillus udagawae
+XP_040752260.1	glycoside hydrolase family 7 protein [Aspergillus ochraceoroseus
+XP_040753517.1	glycoside hydrolase family 7 protein [Aspergillus ochraceoroseus
+XP_040672091.1	glycoside hydrolase family 7 protein [Aspergillus versicolor CBS
+XP_040706282.1	glycoside hydrolase family 7 protein [Aspergillus sydowii CBS
+XP_040686302.1	glycoside hydrolase family 7 protein [Aspergillus wentii DTO
+XP_040689330.1	glycoside hydrolase family 7 protein [Aspergillus wentii DTO
+XP_040797970.1	glycoside hydrolase family 7 protein [Aspergillus fijiensis CBS
+XP_026632073.1	Aspergillus welwitschiae
+XP_026600870.1	Aspergillus mulundensis
+XP_026610602.1	Aspergillus thermomutatus
+XP_026613706.1	Aspergillus thermomutatus
+XP_025464797.1	glycoside hydrolase family 7 protein [Aspergillus sclerotioniger
+XP_025550540.1	glycoside hydrolase family 7 protein [Aspergillus homomorphus CBS
+XP_025579250.1	glycoside hydrolase family 7 protein [Aspergillus ibericus CBS
+XP_025428630.1	glycoside hydrolase family 7 protein [Aspergillus saccharolyticus
+XP_025403700.1	glycoside hydrolase family 7 protein [Aspergillus heteromorphus CBS
+XP_024700745.1	glycoside hydrolase family 7 protein [Aspergillus steynii IBT
+XP_024706865.1	glycoside hydrolase family 7 protein [Aspergillus steynii IBT
+XP_024691088.1	glycoside hydrolase family 7 protein [Aspergillus campestris IBT
+XP_024678968.1	glycoside hydrolase family 7 protein [Aspergillus novofumigatus IBT
+XP_024684265.1	glycoside hydrolase family 7 protein [Aspergillus novofumigatus IBT
+XP_024671592.1	Aspergillus candidus
+XP_024673154.1	Aspergillus candidus
+XP_022384332.1	Aspergillus bombycis
+XP_022390553.1	Aspergillus bombycis
+XP_015409042.1	glycoside hydrolase family 7 protein [Aspergillus nomiae NRRL
+XP_015403008.1	glycoside hydrolase family 7 protein [Aspergillus nomiae NRRL
+XP_001727881.3	Aspergillus oryzae RIB40
+XP_001827330.1	Aspergillus oryzae RIB40
+XP_001272622.1	Aspergillus clavatus NRRL 1
+XP_001272393.1	Aspergillus clavatus NRRL 1
+XP_001262790.1	glycoside hydrolase family 7 protein [Aspergillus fischeri NRRL
+XP_001217286.1	Aspergillus terreus NIH2624
+XP_001212905.1	Aspergillus terreus NIH2624
+XP_661022.1	glycoside hydrolase family 7 protein [Aspergillus nidulans FGSC
+XP_073626274.1	Aspergillus stella-maris
+XP_073615162.1	Aspergillus undulatus
+XP_073572194.1	Aspergillus karnatakaensis
+XP_073575708.1	Aspergillus karnatakaensis
+XP_073546486.1	Aspergillus ambiguus
+XP_073547630.1	Aspergillus ambiguus
+XP_073596290.1	Aspergillus foveolatus
+WP_222674038.1	Escherichia coli
+WP_165634028.1	glycoside hydrolase family 7 protein
+XP_052954027.1	Aspergillus affinis
+XP_070895771.1	Aspergillus pseudodeflectus
+XP_070899061.1	Aspergillus pseudodeflectus
+XP_070882762.1	Aspergillus lucknowensis
+XP_070883294.1	Aspergillus lucknowensis
+XP_070887896.1	Aspergillus lucknowensis
+XP_043162435.1	glycoside hydrolase family 7 protein [Aspergillus
+XP_043127453.1	Aspergillus viridinutans
+XP_033415048.1	Aspergillus lentulus
+XP_031894615.1	Aspergillus alliaceus
+XP_031898322.1	Aspergillus alliaceus
+XP_031903298.1	Aspergillus alliaceus
+XP_031922182.1	Aspergillus caelatus
+XP_070871019.1	glycoside hydrolase family 7 protein [Sodiomyces alcalophilus JCM
+XP_070876297.1	glycoside hydrolase family 7 protein [Sodiomyces alcalophilus JCM
+XP_070062142.1	Colletotrichum truncatum
+XP_064665617.1	Canariomyces notabilis
+XP_064666419.1	Canariomyces notabilis
+XP_064668939.1	Canariomyces notabilis
+XP_064673964.1	Canariomyces notabilis
+XP_069294630.1	glycoside hydrolase family 7 protein [Thermothelomyces
+XP_069298564.1	glycoside hydrolase family 7 protein [Thermothelomyces
+XP_069300577.1	glycoside hydrolase family 7 protein [Thermothelomyces
+XP_066655168.1	glycoside hydrolase family 7 protein [Phyllosticta
+XP_066642641.1	Chaetomium tenue
+XP_062784786.1	Putative glycoside hydrolase
+XP_062781695.1	Putative glycoside hydrolase
+XP_062780922.1	Putative glycoside hydrolase
+XP_062778315.1	Putative glycoside hydrolase
+XP_062776185.1	Putative glycoside hydrolase
+XP_062774591.1	Putative Cellulose-binding domain
+XP_062774507.1	Putative glycoside hydrolase
+XP_062718615.1	Chaetomium strumarium
+XP_062721946.1	Chaetomium strumarium
+XP_062722272.1	Chaetomium strumarium
+XP_062642304.1	Parathielavia appendiculata
+XP_062643041.1	Parathielavia appendiculata
+XP_062643010.1	Parathielavia appendiculata
+XP_062655066.1	Chaetomium fimeti
+XP_062655661.1	Chaetomium fimeti
+XP_062652547.1	Parathielavia appendiculata
+XP_013346232.1	glycoside hydrolase family 7 protein [Aureobasidium subglaciale
+XP_007714824.1	Bipolaris zeicola 26-R-13
+XP_007711063.1	Bipolaris zeicola 26-R-13
+XP_007706994.1	Bipolaris zeicola 26-R-13
+XP_007690051.1	Bipolaris oryzae ATCC 44560
+XP_009544628.1	glycoside hydrolase family 7 protein [Heterobasidion irregulare TC
+XP_007773697.1	glycoside hydrolase family 7 protein [Coniophora puteana RWD-64-598
+XP_007773670.1	glycoside hydrolase family 7 protein [Coniophora puteana RWD-64-598
+XP_013954979.1	Trichoderma virens Gv29-8
+XP_060278673.1	Phialemonium atrogriseum
+XP_060283577.1	Phialemonium atrogriseum
+XP_060295093.1	Lasiosphaeria miniovina
+XP_060294915.1	Lasiosphaeria miniovina
+XP_060286325.1	Phialemonium atrogriseum
+XP_060293933.1	Lasiosphaeria miniovina
+XP_060288155.1	Phialemonium atrogriseum
+XP_060296754.1	Lasiosphaeria miniovina
+XP_004357991.1	Cavenderia fasciculata
+XP_052998109.1	Diaporthe amygdali
+XP_051371224.1	Durotheca rogersii
+XP_051375000.1	Durotheca rogersii
+XP_051376620.1	Durotheca rogersii
+XP_051308766.1	Hypoxylon trugodes
+XP_051313433.1	Hypoxylon trugodes
+XP_051319106.1	Hypoxylon trugodes
+XP_003039008.1	Schizophyllum commune H4-8
+XP_003029269.1	Schizophyllum commune H4-8
+XP_049117473.1	Hypoxylon fragiforme
+XP_049154259.1	Daldinia loculata
+XP_049097183.1	Daldinia decipiens
+XP_049100251.1	Daldinia decipiens
+XP_049162928.1	Daldinia loculata
+XP_049163292.1	Daldinia loculata
+XP_049104305.1	Daldinia decipiens
+XP_047849789.1	Annulohypoxylon truncatum
+XP_047850058.1	Annulohypoxylon truncatum
+XP_047827532.1	Xylaria bambusicola
+XP_047866563.1	Daldinia vernicosa
+XP_047816772.1	glycoside hydrolase family 7 protein [Annulohypoxylon
+XP_047822144.1	glycoside hydrolase family 7 protein [Annulohypoxylon
+XP_047787545.1	Daldinia caldariorum
+XP_047790055.1	Daldinia caldariorum
+XP_047795317.1	Daldinia caldariorum
+XP_018066661.1	Mollisia scopiformis
+XP_040762017.1	Laetiporus sulphureus 93-53
+XP_040719157.1	Pseudomassariella vexata
+XP_040789289.1	glycoside hydrolase family 7 protein [Cucurbitaria berberidis CBS
+XP_040788145.1	glycoside hydrolase family 7 protein [Cucurbitaria berberidis CBS
+XP_040790435.1	glycoside hydrolase family 7 protein [Cucurbitaria berberidis CBS
+XP_038782116.1	Alternaria burnsii
+XP_038784651.1	Alternaria burnsii
+XP_038789041.1	Alternaria burnsii
+XP_038790071.1	Alternaria burnsii
+XP_033677617.1	Trematosphaeria pertusa
+XP_033677596.1	Trematosphaeria pertusa
+XP_033680814.1	Trematosphaeria pertusa
+XP_033683964.1	Trematosphaeria pertusa
+XP_033683625.1	Trematosphaeria pertusa
+XP_033685352.1	Trematosphaeria pertusa
+XP_033523685.1	glycoside hydrolase family 7 protein [Dothidotthia symphoricarpi
+XP_033560510.1	Macroventuria anomochaeta
+XP_033565433.1	Macroventuria anomochaeta
+XP_033381930.1	glycoside hydrolase family 7 protein [Aaosphaeria arxii CBS
+XP_033386335.1	glycoside hydrolase family 7 protein [Aaosphaeria arxii CBS
+XP_033388336.1	glycoside hydrolase family 7 protein [Aaosphaeria arxii CBS
+XP_033389681.1	glycoside hydrolase family 7 protein [Aaosphaeria arxii CBS
+XP_033392017.1	glycoside hydrolase family 7 protein [Aplosporella prunicola CBS
+XP_033448189.1	Didymella exigua CBS 183.55
+XP_033401996.1	glycoside hydrolase family 7 protein [Aplosporella prunicola CBS
+XP_024740754.1	Hyaloscypha bicolor E
+XP_024743467.1	Hyaloscypha bicolor E
+XP_008031204.1	Exserohilum turcica Et28A
+XP_008028120.1	Exserohilum turcica Et28A
+XP_008025548.1	Exserohilum turcica Et28A
+XP_008024638.1	Exserohilum turcica Et28A
+XP_007928914.1	glycoside hydrolase family 7 protein [Pseudocercospora fijiensis
+XP_007401163.1	glycoside hydrolase family 7 protein [Phanerochaete carnosa
+XP_007400937.1	glycoside hydrolase family 7 protein [Phanerochaete carnosa
+XP_007396985.1	glycoside hydrolase family 7 protein [Phanerochaete carnosa
+XP_007391667.1	glycoside hydrolase family 7 protein [Phanerochaete carnosa
+XP_007674700.1	glycoside hydrolase family 7 protein [Baudoinia panamericana UAMH
+XP_003653508.1	glycoside hydrolase family 7 protein [Thermothielavioides
+XP_003653476.1	glycoside hydrolase family 7 protein [Thermothielavioides
+XP_003650402.1	glycoside hydrolase family 7 protein [Thermothielavioides
+XP_003664606.1	glycoside hydrolase family 7 protein [Thermothelomyces thermophilus
+XP_003660789.1	glycoside hydrolase family 7 protein [Thermothelomyces thermophilus
+XP_007914695.1	putative glycoside hydrolase family 7 protein [Phaeoacremonium
+XP_007913447.1	putative glycoside hydrolase family 7 protein [Phaeoacremonium
+XP_020434714.1	Heterostelium album PN500
+XP_647587.1	glycoside hydrolase family 7 protein [Dictyostelium discoideum
+XP_064666239.1	carbohydrate-binding module family 1 protein [Canariomyces
+XP_024749210.1	carbohydrate-binding module family 1 protein [Trichoderma
+XP_024769765.1	carbohydrate-binding module family 1 protein [Trichoderma harzianum
+XP_070879044.1	carbohydrate-binding module family 1 protein [Sodiomyces
+XP_064673538.1	carbohydrate-binding module family 1 protein [Canariomyces
+XP_062645433.1	carbohydrate-binding module family 1 protein [Parathielavia
+XP_062648320.1	carbohydrate-binding module family 1 protein [Parathielavia
+XP_033381967.1	carbohydrate-binding module family 1 protein [Aaosphaeria arxii CBS
+XP_024740423.1	carbohydrate-binding module family 1 protein [Hyaloscypha bicolor
+XP_024771708.1	carbohydrate-binding module family 1 protein [Trichoderma harzianum
+XP_026614649.1	Aspergillus thermomutatus
+XP_041555419.1	Aspergillus puulaauensis
+XP_066724132.1	Apiospora kogelbergensis
+XP_066725361.1	Apiospora kogelbergensis
+XP_066737404.1	Apiospora kogelbergensis
+XP_066711226.1	Apiospora phragmitis
+XP_066718553.1	Apiospora phragmitis
+XP_066668941.1	Apiospora hydei
+XP_066681802.1	Apiospora marii
+XP_066672561.1	Apiospora hydei
+XP_066694523.1	Apiospora aurea
+XP_066690480.1	Apiospora marii
+XP_024761505.2	Trichoderma asperellum
+XP_065971929.1	Trichoderma atroviride
+XP_053053248.1	Colletotrichum fioriniae
+XP_053054654.1	Colletotrichum fioriniae
+XP_036630382.1	Pleurotus ostreatus
+XP_018125963.1	Pseudogymnoascus verrucosus
+XP_018135161.1	Pseudogymnoascus verrucosus
+XP_058349572.1	Cadophora gregata
+XP_056072052.1	Didymosphaeria variabile
+XP_056076397.1	Didymosphaeria variabile
+XP_044674253.1	Fusarium musae
+XP_044678670.1	Fusarium musae
+XP_009531399.1	Phytophthora sojae
+XP_009527020.1	Phytophthora sojae
+XP_009520751.1	Phytophthora sojae
+XP_009520750.1	Phytophthora sojae
+XP_009520749.1	Phytophthora sojae
+XP_073641490.1	Penicillium psychrofluorescens
+XP_058335815.1	Penicillium chermesinum
+XP_057049849.1	Penicillium riverlandense
+XP_056977316.1	Penicillium longicatenatum
+XP_057010565.1	Penicillium subrubescens
+XP_056483016.1	Penicillium cosmopolitanum
+XP_056790567.1	Penicillium diatomitis
+XP_056741601.1	Penicillium atrosanguineum
+XP_056827660.1	Penicillium maclennaniae
+XP_056766407.1	Penicillium daleae
+XP_056506168.1	Penicillium citrinum
+XP_056555967.1	Penicillium cataractarum
+XP_049968692.1	Penicillium oxalicum
+XP_002152969.2	Talaromyces marneffei ATCC 18224
+XP_002149324.1	putative 1
+XP_043146138.1	Aspergillus udagawae
+XP_040751114.1	Aspergillus ochraceoroseus IBT 24754
+XP_040705420.1	uncharacterized protein ASPSYDRAFT_56848 [Aspergillus sydowii CBS
+XP_040666699.1	uncharacterized protein ASPVEDRAFT_128353 [Aspergillus versicolor
+XP_026606673.1	Aspergillus mulundensis
+XP_025551065.1	Aspergillus homomorphus CBS 101889
+XP_025576959.1	Aspergillus ibericus CBS 121593
+XP_025397816.1	Aspergillus heteromorphus CBS 117.55
+XP_024684773.1	Aspergillus novofumigatus IBT 16806
+XP_001270378.1	Aspergillus clavatus NRRL 1
+XP_001217291.1	Aspergillus terreus NIH2624
+XP_747897.1	Aspergillus fumigatus Af293
+XP_073548256.1	Aspergillus ambiguus
+XP_073586382.1	Aspergillus multicolor
+WP_290617366.1	Immundisolibacter sp.
+XP_045937713.1	putative 1
+XP_043161005.1	Aspergillus pseudoviridinutans
+XP_043129345.1	Aspergillus viridinutans
+XP_041550913.1	putative 1
+XP_041537168.1	putative 1
+XP_070920387.1	Madurella fahalii
+XP_070919175.1	Madurella fahalii
+XP_070918202.1	Madurella fahalii
+XP_070917485.1	Madurella fahalii
+XP_070917117.1	Madurella fahalii
+XP_070915459.1	Madurella fahalii
+XP_070912169.1	Madurella fahalii
+XP_070863747.1	Remersonia thermophila
+XP_070863586.1	Remersonia thermophila
+XP_069214913.1	uncharacterized protein VTJ04DRAFT_10178 [Mycothermus
+XP_069214330.1	Mycothermus thermophilus
+XP_069227272.1	Cladosporium halotolerans
+XP_067494979.1	Arthrobotrys flagrans
+XP_066725050.1	1-4-beta-D-glucan cellobiohydrolase-like protein [Apiospora
+XP_066732321.1	Apiospora kogelbergensis
+XP_066717394.1	Apiospora phragmitis
+XP_066718850.1	1-4-beta-D-glucan cellobiohydrolase-like protein [Apiospora
+XP_066670082.1	Apiospora hydei
+XP_066673403.1	Apiospora hydei
+XP_066695452.1	Apiospora aurea
+XP_066686211.1	Apiospora marii
+XP_066696339.1	Apiospora aurea
+XP_066690058.1	Apiospora marii
+XP_066689786.1	Apiospora marii
+XP_066639075.1	concanavalin A-like lectin/glucanase domain-containing protein
+XP_066631500.1	Diplodia seriata
+XP_066641097.1	concanavalin A-like lectin/glucanase domain-containing protein
+XP_066634905.1	Diplodia seriata
+XP_001935476.2	Pyrenophora tritici-repentis
+XP_024761559.1	Trichoderma asperellum
+XP_014073814.1	Bipolaris maydis
+XP_013944336.1	Trichoderma atroviride
+XP_003837470.1	Plenodomus lingam
+XP_003833528.1	Plenodomus lingam
+XP_053053854.2	Colletotrichum fioriniae
+XP_065613658.1	Colletotrichum fioriniae
+XP_053054479.1	Colletotrichum fioriniae
+XP_053054715.1	Colletotrichum fioriniae
+XP_023450325.1	Cercospora beticola
+XP_064692795.1	Recurvomyces mirabilis
+XP_064693552.1	Recurvomyces mirabilis
+XP_064695725.1	Recurvomyces mirabilis
+XP_064653851.1	Saxophila tyrrhenica
+XP_064654638.1	Saxophila tyrrhenica
+XP_064698534.1	Recurvomyces mirabilis
+XP_064660661.1	Saxophila tyrrhenica
+XP_062797045.1	Podospora pseudoanserina
+XP_062798764.1	Podospora pseudoanserina
+XP_062800935.1	Podospora pseudoanserina
+XP_062799979.1	Podospora pseudoanserina
+XP_062801129.1	Podospora pseudoanserina
+XP_062804927.1	Podospora pseudoanserina
+XP_018031386.1	Paraphaeosphaeria sporulosa
+XP_018034582.1	Paraphaeosphaeria sporulosa
+XP_007841266.1	Pestalotiopsis fici W106-1
+XP_007826775.1	Pestalotiopsis fici W106-1
+XP_047797403.1	hypothetical protein Pst134EA_030234 [Puccinia striiformis f. sp.
+XP_047812764.1	hypothetical protein Pst134EA_000381 [Puccinia striiformis f. sp.
+XP_041688441.1	Fusarium mangiferae
+XP_036629639.1	Pleurotus ostreatus
+XP_036632492.1	Pleurotus ostreatus
+XP_036632295.1	Pleurotus ostreatus
+XP_036633541.1	Pleurotus ostreatus
+XP_036633493.1	Pleurotus ostreatus
+XP_036633459.1	Pleurotus ostreatus
+XP_036633006.1	Pleurotus ostreatus
+XP_036632979.1	Pleurotus ostreatus
+XP_036542839.1	Fusarium subglutinans
+XP_028490260.1	Verticillium nonalfalfae
+XP_028491312.1	Verticillium nonalfalfae
+XP_028496103.1	Verticillium nonalfalfae
+XP_028496915.1	Verticillium nonalfalfae
+XP_028498042.1	Verticillium nonalfalfae
+XP_014174976.1	Grosmannia clavigera kw1407
+XP_014170719.1	Grosmannia clavigera kw1407
+XP_009854420.1	uncharacterized protein NEUTE1DRAFT_103914 [Neurospora tetrasperma
+XP_049218368.1	Alternaria triticimaculans
+XP_049225964.1	Alternaria triticimaculans
+XP_016590706.1	Sporothrix schenckii 1099-18
+XP_002477827.1	Talaromyces stipitatus ATCC 10500
+XP_031036880.3	endoglucanase I complexed with Epoxybutyl cellobiose [Fusarium
+XP_031030384.2	Fusarium oxysporum Fo47
+XP_057380579.1	Daphnia carinata
+XP_057379423.1	Daphnia carinata
+XP_018125050.1	Pseudogymnoascus verrucosus
+XP_018125700.1	Pseudogymnoascus verrucosus
+XP_018126203.1	Pseudogymnoascus verrucosus
+XP_018128216.1	Pseudogymnoascus verrucosus
+XP_018128944.1	Pseudogymnoascus verrucosus
+XP_018130756.1	Pseudogymnoascus verrucosus
+XP_018132641.1	Pseudogymnoascus verrucosus
+XP_018133188.1	Pseudogymnoascus verrucosus
+XP_058354880.1	Cadophora gregata
+XP_058357911.1	Cadophora gregata
+XP_058358260.1	Cadophora gregata
+XP_058360542.1	Cadophora gregata
+XP_058364603.1	Cadophora gregata
+XP_056065244.1	Didymosphaeria variabile
+XP_056065198.1	Didymosphaeria variabile
+XP_056066220.1	Didymosphaeria variabile
+XP_056070713.1	Didymosphaeria variabile
+XP_053016885.1	Puccinia triticina
+XP_053029771.1	uncharacterized protein COL26b_013679 [Colletotrichum
+XP_053032903.1	uncharacterized protein COL26b_010484 [Colletotrichum
+XP_053034077.1	Colletotrichum chrysophilum
+XP_053035549.1	Colletotrichum chrysophilum
+XP_053035488.1	uncharacterized protein COL26b_007710 [Colletotrichum
+XP_053041520.1	uncharacterized protein COL26b_001643 [Colletotrichum
+XP_053041736.1	Colletotrichum chrysophilum
+XP_052997246.1	Diaporthe amygdali
+XP_051293102.1	Alternaria incomplexa
+XP_049150163.1	Colletotrichum lupini
+XP_047825480.1	Xylaria bambusicola
+XP_046066604.1	concanavalin A-like lectin/glucanase domain-containing protein
+XP_046636344.1	Daphnia pulicaria
+XP_046644148.1	Daphnia pulicaria
+XP_046644147.1	LOW QUALITY PROTEIN: probable 1
+XP_046641033.1	Daphnia pulicaria
+XP_046640968.1	Daphnia pulicaria
+XP_046640310.1	Daphnia pulicaria
+XP_046448648.1	Daphnia pulex
+XP_046446277.1	Daphnia pulex
+XP_046446265.1	probable 1
+XP_046446247.1	Daphnia pulex
+XP_046446237.1	Daphnia pulex
+XP_022469278.1	Colletotrichum orchidophilum
+XP_008099372.1	Colletotrichum graminicola M1.001
+XP_046044553.1	glycosyl hydrolase family 7-domain-containing protein [Fusarium
+XP_045997193.1	concanavalin A-like lectin/glucanase domain-containing protein
+XP_018073185.1	Mollisia scopiformis
+XP_044707576.1	Fusarium poae
+XP_044686410.1	Fusarium musae
+XP_044711121.1	Fusarium poae
+XP_044638114.1	Diaporthe batatas
+XP_044647233.1	Diaporthe batatas
+XP_032792209.2	Daphnia magna
+XP_043002917.1	Marasmius oreades
+XP_043002884.1	Marasmius oreades
+XP_043002883.1	Marasmius oreades
+XP_043026192.1	Diaporthe citri
+XP_001229968.1	uncharacterized protein CHGG_03452 [Chaetomium globosum CBS
+XP_001226402.1	uncharacterized protein CHGG_08475 [Chaetomium globosum CBS
+XP_001221752.1	uncharacterized protein CHGG_05657 [Chaetomium globosum CBS
+XP_040731144.1	Talaromyces amestolkiae
+XP_040773693.1	Cryphonectria parasitica EP155
+XP_011127257.1	hypothetical protein AOL_s00210g153 [Orbilia oligospora ATCC
+XP_037206986.1	Fusarium tjaetaba
+XP_033433296.1	Daldinia childiae
+XP_009656772.1	Verticillium dahliae VdLs.17
+XP_003721274.1	Pyricularia oryzae 70-15
+XP_030980482.1	Pyricularia grisea
+XP_030982915.1	Pyricularia grisea
+XP_031005353.1	Lachnellula hyalina
+XP_029745147.1	Pyricularia pennisetigena
+XP_029748321.1	Pyricularia pennisetigena
+XP_028464510.1	Sodiomyces alkalinus F11
+XP_025374359.1	Acaromyces ingoldii
+XP_001904407.1	uncharacterized protein PODANS_5_12770
+XP_018661465.1	Trichoderma gamsii
+XP_957642.2	Neurospora crassa OR74A
+XP_001803151.1	Parastagonospora nodorum SN15
+XP_009219509.1	Gaeumannomyces tritici R3-111a-1
+XP_003000063.1	Verticillium alfalfae VaMs.102
+XP_005785270.1	Emiliania huxleyi CCMP1516
+XP_005777118.1	hypothetical protein EMIHUDRAFT_101082 [Emiliania huxleyi
+XP_005764495.1	hypothetical protein EMIHUDRAFT_213816 [Emiliania huxleyi
+XP_008914866.1	Phytophthora nicotianae INRA-310
+BAB64565.3	Holomastigotoides mirabile
+BAB64553.1	Pseudotrichonympha grassii
+AAY83390.3	endoglucanase-type cellulase [Reticulitermes flavipes gut symbiont
+AAY83391.1	exoglucanase-type cellulase [Reticulitermes flavipes gut symbiont
+BAC07552.1	endo-beta-1
+BAC07551.1	endo-beta-1
+pdb|8POF|A	Chain A
+AGT15838.1	Reticulitermes flavipes
