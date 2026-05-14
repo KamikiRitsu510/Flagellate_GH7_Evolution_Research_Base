@@ -20,20 +20,52 @@ def _read_accessions(path: str) -> list:
 def _build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="phylofetch",
-        description="Fetch CDS sequences and taxonomy lineages from NCBI.",
+        description=(
+            "phylofetch — Batch fetch CDS sequences and taxonomy lineages from NCBI.\n"
+            "\n"
+            "Two subcommands are available:\n"
+            "  cds        Download coding DNA sequences (FASTA output)\n"
+            "  taxonomy   Download full taxonomic lineages (Excel / TSV output)\n"
+            "\n"
+            "NCBI requires a valid email with every request (--email / -e).\n"
+            "Rate limiting (≤3 req/s) and retry logic are applied automatically."
+        ),
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples
 --------
-  # Fetch CDS for accessions listed in a file
+  # Download CDS for accessions in a file
   phylofetch cds --input accs.txt --output sequences.fasta --email you@example.com
 
-  # Fetch taxonomy for the same accessions; save as Excel + TSV
+  # Download CDS for accessions passed directly
+  phylofetch cds BAB64565.3 AAY83390.3 --email you@example.com
+
+  # Download taxonomy → Excel + TSV
   phylofetch taxonomy --input accs.txt \\
       --excel taxonomy.xlsx --tsv taxonomy.tsv --email you@example.com
 
-  # Pass accessions directly on the command line
-  phylofetch cds BAB64565.3 AAY83390.3 --email you@example.com --output out.fasta
+  # Include extra taxonomic ranks (e.g. subphylum)
+  phylofetch taxonomy --input accs.txt --extra-ranks subphylum tribe \\
+      --tsv full_taxonomy.tsv --email you@example.com
+
+  # Suppress progress output
+  phylofetch cds --input accs.txt -o out.fasta -e you@example.com --quiet
+
+Input file format (accs.txt)
+-----------------------------
+  One accession per line. Lines starting with # are ignored.
+  Example:
+    # Flagellate GH7 sequences
+    BAB64565.3
+    AAY83390.3
+    WP_165634028.1
+
+Output columns (taxonomy)
+--------------------------
+  accession | taxid | lineage_string | superkingdom | kingdom |
+  phylum | class | order | family | genus | species [+ extras]
+
+See also: EXAMPLE.md for a full worked walkthrough.
 """,
     )
     parser.add_argument(

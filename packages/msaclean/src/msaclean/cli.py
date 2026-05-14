@@ -19,23 +19,52 @@ def _read_whitelist(path: str) -> list[str]:
 def _build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         prog="msaclean",
-        description="Clean and curate multiple sequence alignments.",
+        description=(
+            "msaclean — Clean and curate multiple sequence alignments for phylogenetics.\n"
+            "\n"
+            "Three subcommands:\n"
+            "  clean       One-pass gap filtering on an existing alignment\n"
+            "  iterative   Iterative MAFFT realignment + gap-based removal (requires mafft)\n"
+            "  stats       Inspect gap statistics without modifying the alignment\n"
+            "\n"
+            "Whitelist (-w) protects specific accessions from removal regardless of gap content.\n"
+            "Accession is extracted as the first whitespace-delimited token in each FASTA header."
+        ),
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples
 --------
-  # Remove all-gap sequences, protect a whitelist
-  msaclean clean GH7_aligned.fasta -o GH7_clean.fasta -w whitelist.txt
+  # Inspect gap distribution first
+  msaclean stats GH7_aligned.fasta --top 20 -w whitelist.txt
 
-  # Remove sequences with >90% gaps
-  msaclean clean GH7_aligned.fasta -o GH7_clean.fasta --max-gap 0.9
+  # Remove sequences with >90% gaps, keep whitelist
+  msaclean clean GH7_aligned.fasta -o GH7_clean.fasta \\
+      -w whitelist.txt --max-gap 0.9
 
-  # Iterative re-alignment: stop when 20 sequences remain
-  msaclean iterative GH7_raw.fasta -o GH7_curated.fasta \\
-      -w whitelist.txt --stop-at 20 --rounds 2
+  # Iterative realignment: remove 2 worst per round, stop at 50 sequences
+  msaclean iterative GH7_clustered.fasta -o GH7_curated.fasta \\
+      -w whitelist.txt --stop-at 50 --rounds 2 --mafft-threads 8
 
-  # Just report gap statistics without removing anything
-  msaclean stats GH7_aligned.fasta
+  # Faster MAFFT mode, skip trimAl
+  msaclean iterative GH7_clustered.fasta -o GH7_curated.fasta \\
+      --mafft-mode auto --no-trimal --stop-at 30 -w whitelist.txt
+
+Whitelist file format
+---------------------
+  One accession per line. Lines starting with # are ignored.
+  Example:
+    # Core flagellate sequences — never remove
+    BAB64565.3
+    AAY83390.3
+
+MAFFT modes
+-----------
+  localpair   L-INS-i, highest accuracy, slow   (default)
+  globalpair  G-INS-i, global pairwise
+  genafpair   E-INS-i, for sequences with long unalignable regions
+  auto        Automatic selection, fastest
+
+See also: EXAMPLE.md for a full worked walkthrough.
 """,
     )
     parser.add_argument(
