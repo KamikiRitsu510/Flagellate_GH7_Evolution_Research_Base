@@ -1,0 +1,29 @@
+Package: treecolorize
+Type: Package
+Title: Keyword-Based Coloring of Phylogenetic Trees
+Version: 0.1.0
+Authors@R: person("KamikiRitsu", email = "kamikiritsu510@gmail.com", role = c("aut", "cre"))
+Description: Colorize phylogenetic trees by taxonomic or functional group using
+    simple keyword rules. Supports both ape and ggtree backends. Features include
+    automatic tip-label classification via user-defined regex keyword maps,
+    branch coloring by descendant majority vote, and a flexible color palette
+    system. Designed for multi-kingdom datasets where quick visual grouping of
+    diverse lineages is needed.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.0.0)
+Imports:
+    ape (>= 5.0),
+    grDevices
+Suggests:
+    ggtree,
+    ggplot2,
+    treeio,
+    RColorBrewer,
+    knitr,
+    rmarkdown
+RoxygenNote: 7.2.3
+VignetteBuilder: knitr
+URL: https://github.com/KamikiRitsu510/treecolorize
+BugReports: https://github.com/KamikiRitsu510/treecolorize/issues

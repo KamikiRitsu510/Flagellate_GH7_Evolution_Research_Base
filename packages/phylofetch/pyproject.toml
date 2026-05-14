@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "phylofetch"
+version = "0.1.0"
+description = "Fetch CDS sequences and taxonomy lineages from NCBI for phylogenetic studies"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "KamikiRitsu", email = "kamikiritsu510@gmail.com" }]
+requires-python = ">=3.8"
+dependencies = [
+    "biopython>=1.80",
+    "pandas>=1.3",
+]
+optional-dependencies.full = ["ete3>=3.1"]
+
+[project.urls]
+Homepage = "https://github.com/KamikiRitsu510/phylofetch"
+
+[project.scripts]
+phylofetch = "phylofetch.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
