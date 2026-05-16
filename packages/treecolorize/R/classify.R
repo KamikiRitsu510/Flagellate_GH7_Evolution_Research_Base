@@ -14,10 +14,12 @@
 #' # [1] "Pseudotrichonympha grassii" "Chaetomium globosum"
 #' @export
 strip_accession <- function(labels, sep = " ") {
-  sapply(labels, function(lbl) {
-    parts <- strsplit(lbl, sep, fixed = TRUE)[[1]]
-    if (length(parts) > 1) paste(parts[-1], collapse = sep) else lbl
-  }, USE.NAMES = FALSE)
+  # Use the same regex as the reference plotting script:
+  # match a leading accession token (letters, digits, underscores, dots)
+  # followed by one or more whitespace characters, and remove it.
+  cleaned <- sub("^[A-Za-z0-9_.]+\\s+", "", labels)
+  # Fall back to original label if nothing was stripped (no whitespace found)
+  ifelse(cleaned == labels, labels, cleaned)
 }
 
 
